@@ -10,7 +10,7 @@ function [trial_prop] = PAL_trialtype_incorrect
 %presented across 90 trials in a session. Proportions is calculated 
 % as total number incorrect / total number completed for each of trial types 1-6. 
 
-filename='TBI_Post.xlsx' %change to your filename
+filename='Smith et al. 2022 PAL CCI TBI Raw Data.xlsx' %change to your filename
 sheet1 = 'Cor' %change sheetname to whatever excel sheet houses your correct trial information
 sheet2 = 'Type' %change sheetname to whatever excel sheet houses your trial type information
 
