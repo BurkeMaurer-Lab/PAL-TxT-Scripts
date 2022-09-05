@@ -19,7 +19,7 @@ function [bias] = PAL_analysis_2020
 % 'trial count'
 
 %import data
-filename='TBI_Post.xlsx' %change to your filename
+filename='Smith et al. 2022 PAL CCI TBI Raw Data.xlsx' %change to your filename
 sheet1 = 'Cor' %change sheetname to whatever excel sheet houses your correct trial information
 sheet2 = 'Type' %change sheetname to whatever excel sheet houses your trial type information
 
